@@ -11,3 +11,5 @@ Installations- und Konfigurationsanleitungen für JTL-Shop-Plugins von neusued G
 - [neusued Order Shield](ns_order_shield.md) – Version 2.0.0
 
 Support: https://help.neusued.de/support/
+
+- [neusued KI Bild-Alt-Texte](ns_image_alt/) – Installation und Konfiguration
